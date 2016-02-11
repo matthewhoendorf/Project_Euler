@@ -1,3 +1,5 @@
+# The correct answer to Problem 2 is '4613732'
+
 initList = []
 sum = 0
 
