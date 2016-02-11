@@ -1,3 +1,5 @@
+# The correct answer to Problem 1 is '233168'
+
 print "\nThis program will output the sum of the multiples of 3 or 5 between the range of 0 to n."
 
 limit = input('\nPlease enter the desired value of n: ')
