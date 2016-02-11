@@ -24,4 +24,4 @@ for number in initList:
     if number % 2 == 0:
         sum = sum + number
 
-print "\nThe sum of the all Fibonacci numbers < 4 million = %d.\n" % sum
+print "\nThe sum of all Fibonacci numbers whose value is < 4 million = %d.\n" % sum
